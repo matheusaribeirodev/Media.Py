@@ -9,38 +9,11 @@ Cálculo automático da média
 Exibição do resultado final
 Verificação de aprovação ou reprovação
 Interface simples e intuitiva
-🧮 Fórmula utilizada
-
-
-A média é calculada pela fórmula:
-
-M
-e
-ˊ
-dia=
-4
-n
-1
-	​
-
-+n
-2
-	​
-
-+n
-3
-	​
-
-+n
-4
-	​
-
-	​
-
 
 💻 Tecnologias utilizadas
 Python
 VS Code
+
 🎯 Objetivo do projeto
 
 Este projeto foi desenvolvido com foco em aprendizagem, permitindo praticar:
