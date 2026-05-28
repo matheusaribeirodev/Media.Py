@@ -11,6 +11,7 @@ Verificação de aprovação ou reprovação
 Interface simples e intuitiva
 
 💻 Tecnologias utilizadas
+
 Python
 VS Code
 
